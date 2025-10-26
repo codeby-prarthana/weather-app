@@ -47,7 +47,10 @@ Users can search for any city name to get instant weather updates.
 1. Enter the city name in the search box.
 2. The app fetches data from the Weather API using an API key.
 3. Displays current weather conditions and a 5-day forecast dynamically.
-4. 
+   
+**<h3>📸 Demo / Screenshot </h3>**
+<img width="1896" height="1032" alt="weather_op" src="https://github.com/user-attachments/assets/66bc3f9f-807d-4113-b5c5-4746009450bd" />
+
 
 **<h3>🔑 API Key  </h3>**
 
